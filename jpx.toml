@@ -1,0 +1,6 @@
+[pack]
+name = 'kppk.somelibrary'
+version = '0.1.0'
+authors = ['you@example.com']
+type = 'lib'
+java_release = '9'
