@@ -1,6 +1,5 @@
 [pack]
-name = 'kppk.somelibrary'
-version = '1.0.1'
-authors = ['you@example.com']
+name = 'kppk/somelibrary'
+version = '1.0.3'
 type = 'lib'
 java_release = '9'
