@@ -2,4 +2,4 @@
 name = 'kppk/somelibrary'
 version = '1.0.3'
 type = 'lib'
-java_release = '9'
+java_release = '12'
